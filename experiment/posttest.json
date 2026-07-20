@@ -2,37 +2,93 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "number": 1,
+      "question": "A slotline is:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "A metallic strip on a dielectric substrate",
+        "b": "A narrow slot etched in a conducting plane on a dielectric substrate",
+        "c": "A coaxial transmission line",
+        "d": "A hollow metallic waveguide"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "A metallic strip on a dielectric substrate describes a microstrip line, not a slotline.",
+        "b": "Correct! A slotline consists of a narrow slot etched in a conducting plane on a dielectric substrate.",
+        "c": "A coaxial transmission line has an inner and outer conductor, unlike a slotline.",
+        "d": "A hollow metallic waveguide is a different type of microwave transmission structure."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "number": 2,
+      "question": "The conducting strip in a slotline is replaced by:",
+      "answers": {
+        "a": "A dielectric rod",
+        "b": "A narrow slot in the ground plane",
+        "c": "Two conductors",
+        "d": "A waveguide wall"
+      },
+      "explanations": {
+        "a": "A dielectric rod is not used in a slotline structure.",
+        "b": "Correct! In a slotline, the conducting strip is replaced by a narrow slot in the conducting ground plane.",
+        "c": "Two conductors are used in other transmission lines, not slotlines.",
+        "d": "A waveguide wall is unrelated to the slotline's conducting structure."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "number": 3,
+      "question": "Electric field lines in a slotline are concentrated mainly:",
+      "answers": {
+        "a": "Inside a metallic strip",
+        "b": "Across the slot",
+        "c": "Outside the substrate only",
+        "d": "Inside a coaxial conductor"
+      },
+      "explanations": {
+        "a": "A slotline has no central metallic strip for field concentration.",
+        "b": "Correct! The electric field is mainly concentrated across the narrow slot.",
+        "c": "The fields are not confined only outside the substrate.",
+        "d": "A slotline does not contain a coaxial conductor."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "number": 4,
+      "question": "Which of the following is an application of slotline?",
+      "answers": {
+        "a": "Microwave antennas",
+        "b": "Power transformers",
+        "c": "DC motors",
+        "d": "Audio speakers"
+      },
+      "explanations": {
+        "a": "Correct! Slotlines are widely used in microwave antennas and microwave integrated circuits.",
+        "b": "Power transformers do not use slotline technology.",
+        "c": "DC motors are unrelated to slotline applications.",
+        "d": "Audio speakers do not use slotline transmission structures."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "number": 5,
+      "question": "Which statement about slotline is correct?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "It consists of two parallel wires.",
+        "b": "It uses a narrow slot cut in a conducting plane for signal propagation.",
+        "c": "It is a hollow rectangular waveguide.",
+        "d": "It cannot be integrated with microwave circuits."
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "A slotline does not consist of two parallel wires.",
+        "b": "Correct! A slotline guides electromagnetic waves using a narrow slot cut in a conducting plane.",
+        "c": "A slotline is not a hollow rectangular waveguide.",
+        "d": "Slotlines are commonly integrated into microwave circuits."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
