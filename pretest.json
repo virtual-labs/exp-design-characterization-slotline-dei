@@ -1,0 +1,77 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "number": 1,
+      "question": "Which component stores magnetic energy?",
+      "answers": {
+        "a": "Capacitor",
+        "b": "Diode",
+        "c": "Inductor",
+        "d": "Resistor"
+      },
+      "explanations": {
+        "a": "A capacitor stores energy in an electric field, not a magnetic field.",
+        "b": "A diode controls the direction of current flow but does not store energy.",
+        "c": "Correct! An inductor stores energy in the form of a magnetic field when current flows through it.",
+        "d": "A resistor dissipates electrical energy as heat instead of storing it."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "number": 2,
+      "question": "Which parameter indicates impedance matching?",
+      "answers": {
+        "a": "VSWR = 1",
+        "b": "VSWR = 10",
+        "c": "VSWR = 20",
+        "d": "VSWR = 100"
+      },
+      "explanations": {
+        "a": "Correct! A VSWR of 1 indicates perfect impedance matching with no reflected power.",
+        "b": "A VSWR of 10 indicates poor impedance matching with high reflections.",
+        "c": "A VSWR of 20 represents very poor impedance matching.",
+        "d": "A VSWR of 100 indicates extremely poor impedance matching."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "number": 3,
+      "question": "The operating principle of a slotline is based on:",
+      "answers": {
+        "a": "Electromagnetic wave propagation",
+        "b": "Chemical reaction",
+        "c": "Electrostatic charging only",
+        "d": "Thermal conduction"
+      },
+      "explanations": {
+        "a": "Correct! A slotline operates by guiding electromagnetic waves along a slot in a conducting plane.",
+        "b": "Chemical reactions are unrelated to slotline operation.",
+        "c": "Slotlines rely on electromagnetic wave propagation, not only electrostatic charging.",
+        "d": "Thermal conduction is not the operating principle of a slotline."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "number": 4,
+      "question": "Slotlines are mainly used in:",
+      "answers": {
+        "a": "Low-frequency power systems",
+        "b": "Microwave circuits",
+        "c": "DC circuits",
+        "d": "Audio amplifiers"
+      },
+      "explanations": {
+        "a": "Slotlines are not designed for low-frequency power applications.",
+        "b": "Correct! Slotlines are widely used in microwave integrated circuits and RF applications.",
+        "c": "Slotlines are not intended for DC circuit applications.",
+        "d": "Audio amplifiers do not typically use slotline transmission structures."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}
