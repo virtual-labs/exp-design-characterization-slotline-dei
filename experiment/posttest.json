@@ -3,7 +3,7 @@
   "questions": [
     {
       "number": 1,
-      "question": "A slotline is:",
+      "question": "Q1. A slotline is:",
       "answers": {
         "a": "A metallic strip on a dielectric substrate",
         "b": "A narrow slot etched in a conducting plane on a dielectric substrate",
@@ -21,7 +21,7 @@
     },
     {
       "number": 2,
-      "question": "The conducting strip in a slotline is replaced by:",
+      "question": "Q2. The conducting strip in a slotline is replaced by:",
       "answers": {
         "a": "A dielectric rod",
         "b": "A narrow slot in the ground plane",
@@ -39,7 +39,7 @@
     },
     {
       "number": 3,
-      "question": "Electric field lines in a slotline are concentrated mainly:",
+      "question": "Q3. Electric field lines in a slotline are concentrated mainly:",
       "answers": {
         "a": "Inside a metallic strip",
         "b": "Across the slot",
@@ -57,7 +57,7 @@
     },
     {
       "number": 4,
-      "question": "Which of the following is an application of slotline?",
+      "question": "Q4. Which of the following is an application of slotline?",
       "answers": {
         "a": "Microwave antennas",
         "b": "Power transformers",
@@ -75,7 +75,7 @@
     },
     {
       "number": 5,
-      "question": "Which statement about slotline is correct?",
+      "question": "Q5. Which statement about slotline is correct?",
       "answers": {
         "a": "It consists of two parallel wires.",
         "b": "It uses a narrow slot cut in a conducting plane for signal propagation.",
