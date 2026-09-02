@@ -3,7 +3,7 @@
   "questions": [
     {
       "number": 1,
-      "question": "Which component stores magnetic energy?",
+      "question": "Q1. Which component stores magnetic energy?",
       "answers": {
         "a": "Capacitor",
         "b": "Diode",
@@ -21,7 +21,7 @@
     },
     {
       "number": 2,
-      "question": "Which parameter indicates impedance matching?",
+      "question": "Q2. Which parameter indicates impedance matching?",
       "answers": {
         "a": "VSWR = 1",
         "b": "VSWR = 10",
@@ -39,7 +39,7 @@
     },
     {
       "number": 3,
-      "question": "The operating principle of a slotline is based on:",
+      "question": "Q3. The operating principle of a slotline is based on:",
       "answers": {
         "a": "Electromagnetic wave propagation",
         "b": "Chemical reaction",
@@ -57,7 +57,7 @@
     },
     {
       "number": 4,
-      "question": "Slotlines are mainly used in:",
+      "question": "Q4. Slotlines are mainly used in:",
       "answers": {
         "a": "Low-frequency power systems",
         "b": "Microwave circuits",
@@ -72,6 +72,24 @@
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
-    }
+    },
+    {
+  "number": 5,
+  "question": "Q5. In a slotline, the electromagnetic fields are primarily concentrated in:",
+  "answers": {
+    "a": "The slot (gap) between the conductors",
+    "b": "The center of the substrate only",
+    "c": "The air far away from the structure",
+    "d": "The backside of the substrate only"
+  },
+  "explanations": {
+    "a": "Correct! In a slotline, the electromagnetic fields are strongly concentrated around the slot (gap) in the conducting plane.",
+    "b": "The fields are not confined only to the center of the substrate.",
+    "c": "The electromagnetic fields are concentrated near the slot rather than far away from the structure.",
+    "d": "The fields are not primarily confined to the backside of the substrate."
+  },
+  "correctAnswer": "a",
+  "difficulty": "beginner"
+}
   ]
 }
