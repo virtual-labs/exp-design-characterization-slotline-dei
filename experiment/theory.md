@@ -1,4 +1,4 @@
-Introduction
+### Introduction
 A slot line structure is a planar structure. It consists of a dielectric substrate, in which a slot is etched on the metallization of the substrate. The other surface is without any metallization. The series and parallel elements can be connected without much difficulty in this type of substrate. The structure is thus complementary to that of the microstrip. The slot-line configuration (shown in Fig. 1) is useful in circuits requiring high-impedance lines, series stubs, and short circuit and in hybrid combinations with microstrip circuit in MICs.
 Approximate electric and magnetic field distribution in the structure are shown in fig. 2. It can be seen that the magnetic field has a component in the direction of propagation as well. Thus the mode of propagation is TE mode and not the TEM mode. The main features of slot line are as follows.
 1. The slot transmission line has a simple geometry that is compatible with microwave integrated circuits.
